@@ -1,0 +1,23 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@material-ui/core": "4.10.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1",
+    "tss-react": "3.7.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.0",
+    "@types/react-dom": "16.9.0",
+    "typescript": "3.9.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
